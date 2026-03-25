@@ -1,3 +1,4 @@
 hi 
 this is local way of initializing git in f Git-localinit
 p1
+p2
